@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on various tech field including web development. 
 - 📫 How to reach me : You can visit my profile here ->
 
-     Instagram - m.o.h.i.t_g.e.e.z 
       
-    Facebook - Mohit Verma
 
 <!---
 Mohit123421/Mohit123421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
